@@ -1,0 +1,3 @@
+Denumire		  Producator    Format     		     Cod    	  Pret    		Stoc
+
+

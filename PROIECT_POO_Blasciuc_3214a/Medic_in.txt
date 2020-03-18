@@ -1,0 +1,5 @@
+4
+Paracetamol,Bayer,Comprimate,12006,21.50,59
+Tachipirina,Angelini,Sirop,5642,11.30,12
+Oki,CnsRom,Unguent,7725,15.90,42
+Claritine,Bayer,Comprimate,7020,24.80,32

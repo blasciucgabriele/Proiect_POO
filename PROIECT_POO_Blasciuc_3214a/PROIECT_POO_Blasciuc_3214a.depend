@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1584373914 source:c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+	<fstream>
+	"medicament.h"
+	"farmacist.h"
+	"client.h"
+	"persoana.h"
+	"nomenclator.h"
+
+1584112617 c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\medicament.h
+
+1584374454 c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\nomenclator.h
+	<string>
+	"medicament.h"
+
+1584378447 source:c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\medicament.cpp
+	"medicament.h"
+	"stdio.h"
+	<cstring>
+	<iomanip>
+	<iostream>
+
+1584378899 source:c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\nomenclator.cpp
+	"nomenclator.h"
+	"medicament.h"
+	<fstream>
+	"stdlib.h"
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<cstring>
+
+1584200562 source:c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\persoana.cpp
+	"persoana.h"
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1584117850 c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\persoana.h
+
+1584263805 source:c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\client.cpp
+	"client.h"
+	"persoana.h"
+	"nomenclator.h"
+	"stdio.h"
+	<cstring>
+	"stdlib.h"
+	<iostream>
+
+1584263805 c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\client.h
+	"persoana.h"
+	"Nomenclator.h"
+
+1584378435 source:c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\farmacist.cpp
+	"farmacist.h"
+	"client.h"
+	"persoana.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	"stdio.h"
+	"stdlib.h"
+	"conio.h"
+	"Medicament.h"
+	"Nomenclator.h"
+
+1584373158 c:\users\blasc\desktop\proiect_poo_blasciuc_3214a\farmacist.h
+	"persoana.h"
+	"client.h"
+	"Medicament.h"
+	"Nomenclator.h"
+
